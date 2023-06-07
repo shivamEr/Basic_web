@@ -1,0 +1,19 @@
+.ram{
+    color: rgb(255, 45, 45);
+
+
+}
+.shivam{
+    border-color: red;
+    padding: 200px;
+}
+checked{
+    color:red;
+}
+.red{
+    background:linear-gradient(to right,#9c27b0,#8ecdff);
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+
+}
